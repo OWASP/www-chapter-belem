@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Cleber Soares](mailto:cleber.soares@owasp.org)
+* [Jacqueline Teixeira](mailto:jacqueline.teixeira@owasp.org)
