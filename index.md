@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Belem
 tags: example-tag
 region: South America
-
+level: 0
 ---
 
 ## Seja Bem Vindo ao capitulo OWASP Belém
