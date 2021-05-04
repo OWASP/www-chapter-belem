@@ -8,5 +8,5 @@ region: South America
 
 ---
 
-## Seja Bem Vindo ao capitulo OWASP Bel�m
+## Seja Bem Vindo ao capítulo OWASP Belém
 Include some information here about your chapter 
