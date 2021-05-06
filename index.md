@@ -13,7 +13,7 @@ region: South America
 
 ## Seja Bem Vindo ao capítulo OWASP Belém
 
-A OWASP Belém é um dos capítulos que ocorrerá de forma online, neste ano de 2021. Entre os mais de 200 capítulos que estarão ocorrendo em todo o mundo, o OWASP Belém vem com o objetivo de:
+A OWASP Belém é um dos capítulos que ocorrerá de forma online, neste ano de 2021. Entre os mais de 200 capítulos que estarão ocorrendo em todo o mundo, o capítulo OWASP Belém vem com o objetivo de:
 
 
 - Compartilhar a missão da Instituição OWASP;
