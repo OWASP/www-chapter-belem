@@ -36,5 +36,7 @@ A Open Web Application Security Project (OWASP) é uma organização mundial sem
 O capítulo OWASP Belém convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro meetup virtual de 2021.
 
 Data: Quinta-feira, 20 de maio de 2021 à partir das 19h
+
 Evento online
+
 Inscrições: Em breve
