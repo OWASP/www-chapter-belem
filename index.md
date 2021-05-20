@@ -4,11 +4,11 @@ layout: col-sidebar
 title: OWASP Belem
 tags: example-tag
 level: 1
+meetup-group: owasp-belem
 region: South America
 
 ---
 ![Owasp-Belem (2)](https://user-images.githubusercontent.com/16158526/117233453-897c0380-adf9-11eb-9532-be5cc93f5085.png)
-
 
 
 ## Seja Bem Vindo ao capítulo OWASP Belém
