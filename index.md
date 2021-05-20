@@ -42,4 +42,5 @@ Horário: à partir das 19h
 Evento online
 
 Inscrições: [Event3 Owasp Belém](https://www.even3.com.br/owasp_belem)
+
 Link de transmissão: [Youtube Capítulo Owasp Belém](bit.ly/owasp_belem)
