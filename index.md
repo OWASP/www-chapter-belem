@@ -43,6 +43,4 @@ Horário: à partir das 19h
 
 Evento online
 
-Inscrições: Em breve!
-
-Link de transmissão: Em breve!
+Link de transmissão: https://www.youtube.com/watch?v=CwCMA96TSqI
