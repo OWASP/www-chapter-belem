@@ -37,7 +37,7 @@ A Open Web Application Security Project (OWASP) é uma organização mundial sem
 
 O capítulo OWASP Belém convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso Quarto meetup virtual de 2022.
 
-Data: Sabado, 26 de fevereiro de 2022
+Data: Sábado, 26 de fevereiro de 2022
 
 Horário: à partir das 19h
 
