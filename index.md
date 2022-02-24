@@ -44,4 +44,5 @@ Horário: à partir das 19h
 Evento online
 
 Link de transmissão:https://www.youtube.com/watch?v=gA8pRTejBnA
-https://www.meetup.com/pt-BR/owasp-belem/events/284187186/
+
+Meetup: https://www.meetup.com/pt-BR/owasp-belem/events/284187186/
