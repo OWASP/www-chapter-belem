@@ -40,6 +40,7 @@ O capítulo OWASP Belém convida profissionais de segurança da informação, de
 Data: Sábado, 10 de dezembro de 2022
 
 Horário: à partir das 8h30m
+
 Endereço:   Av Alcindo Cacela, número 1523 - Auditório da unidade Cesupa ARGO.
 
 Meetup: https://www.meetup.com/pt-BR/owasp-belem/events/289941252/
