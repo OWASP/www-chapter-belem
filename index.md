@@ -5,6 +5,7 @@ title: OWASP Belem
 tags: example-tag
 level: 1
 meetup-group: owasp-belem
+country: Brazil
 region: South America
 
 ---
