@@ -32,13 +32,13 @@ A OWASP Belém é um dos capítulos do Brasil, que ocorrerá de forma online em 
 A Open Web Application Security Project (OWASP) é uma organização mundial sem fins lucrativos focada em melhorar a segurança de software. Nossa missão é tornar a segurança de software visível, para que as pessoas e organizações possam tomar decisões informadas sobre os verdadeiros riscos à segurança de software. Todos são livres para participar da OWASP e todos os nossos materiais estão disponíveis sob uma licença de software livre e aberta.
 
 
-## Meetup Owasp Belém  Presencial de 2022
+## Meetup Owasp Belém  Presencial de 2024
 
 {% include chapter_events.html group=page.meetup-group %}
 
 O capítulo OWASP Belém convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso Primeiro meetup presensial de 2022.
 
-Data: Sábado, 10 de dezembro de 2022
+Data: Sábado, 03 de fevereiro de 2024
 
 Horário: à partir das 8h30m
 
