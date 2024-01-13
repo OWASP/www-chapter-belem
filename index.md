@@ -44,6 +44,6 @@ Horário: à partir das 8h30m
 
 Endereço:   Av Alcindo Cacela, número 1523 - Auditório da unidade Cesupa ARGO.
 
-Meetup: https://www.meetup.com/pt-BR/owasp-belem/events/289941252/
+Meetup: (https://www.meetup.com/owasp-belem/events/298368815/)
 
 Em breve inscrições.
