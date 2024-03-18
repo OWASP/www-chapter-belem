@@ -38,12 +38,12 @@ A Open Web Application Security Project (OWASP) é uma organização mundial sem
 
 O capítulo OWASP Belém convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso Primeiro meetup presensial de 2022.
 
-Data: Sábado, 03 de fevereiro de 2024
+Data: Sábado, 23 de março de 2024
 
 Horário: à partir das 8h30m
 
-Endereço:   Av Alcindo Cacela, número 1523 - Auditório da unidade Cesupa ARGO.
+Endereço: R. Municipalidade, 839 - Estácio FAP
 
-Meetup: (https://www.meetup.com/owasp-belem/events/298368815/)
+Meetup: ([https://www.meetup.com/pt-BR/owasp-belem/events/299751576/](https://www.meetup.com/pt-BR/owasp-belem/events/299751576/))
 
 Em breve inscrições.
