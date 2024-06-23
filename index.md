@@ -44,6 +44,6 @@ Horário: à partir das 8h30m
 
 Endereço: Tv. Dr. Enéas Pinheiro, 2626 - Marco - UEPA
 
-Meetup: ([https://www.meetup.com/pt-BR/owasp-belem/events/299751576/](https://www.meetup.com/pt-BR/owasp-belem/events/299751576/))
+Meetup: ([https://www.meetup.com/pt-BR/owasp-belem/events/301800873/](https://www.meetup.com/pt-BR/owasp-belem/events/301800873/))
 
 Em breve inscrições.
