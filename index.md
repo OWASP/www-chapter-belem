@@ -42,7 +42,7 @@ Data: Sábado, 31 de agosto de 2024
 
 Horário: à partir das 16h
 
-Endereço: ([https://www.youtube.com/@owaspbelem]_(https://www.youtube.com/@owaspbelem))
+Endereço: ([https://www.youtube.com/@owaspbelem](https://www.youtube.com/@owaspbelem))
 
 Meetup: ([https://www.meetup.com/pt-BR/owasp-belem/events/302959492/](https://www.meetup.com/pt-BR/owasp-belem/events/302959492/))
 
