@@ -1,0 +1,23 @@
+leaders:
+  - name: Cleber Soares
+    email: cleber.soares@owasp.org
+  - name: Jacqueline Teixeira
+    email: jacqueline.teixeira@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Pará
+  city: Belém
+  latitude: -1.45056
+  longitude: -48.4682453
+meetup_group: owasp-belem
+name: OWASP Belem
+repositories:
+  - name: www-chapter-belem
+    url: https://github.com/OWASP/www-chapter-belem
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-belem
